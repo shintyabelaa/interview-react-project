@@ -1,7 +1,10 @@
 import "./App.css";
+import Login from "./pages/Login";
 
 function App() {
-  return <p>Hello World</p>;
+  return (
+  <Login/>
+  );
 }
 
 export default App;
